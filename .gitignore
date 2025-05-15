@@ -1,0 +1,4 @@
+# Archivos temporales
+*.temp
+*.log
+.DS_Store
